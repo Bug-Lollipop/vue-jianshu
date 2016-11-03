@@ -1,8 +1,8 @@
 {
-  "name": "vue-demo",
+  "name": "vue-jianshu",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Mrjeff578575 <liu578575764@vip.qq.com>",
+  "author": "Bug-Lollipop <1217305553@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

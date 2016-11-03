@@ -1,6 +1,5 @@
-# y
 
-> A Vue.js project
+> A Vue.js project--jianshu
 
 ## Build Setup
 
